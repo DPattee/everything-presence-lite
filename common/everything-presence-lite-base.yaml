@@ -31,7 +31,7 @@ esp32:
 
 # Enable logging
 logger:
-  level: ${log_level}
+  level: WARN
 
 # Enable Home Assistant API
 api:
